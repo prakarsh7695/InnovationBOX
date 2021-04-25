@@ -1,0 +1,55 @@
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #innoBOX{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    color: aqua;
+    
+  }
+  #s1h1
+  {
+    color: black;
+    font-size: 60px;
+  }
+  #s1t1{
+    color: black;
+    font-style: italic;
+    font-size: 40px;
+
+  }
+  #s2h1
+  {
+    color: black;
+    font-size: 60px;
+  }
+  #s2t1{
+    color: black;
+    font-style: italic;
+    font-size: 40px;
+
+  }
+  #s3h1
+  {
+    color: white;
+    font-size: 60px;
+    font-style: Bold;
+  }
+  #s3t1{
+    color: white;
+    font-style: italic;
+    font-size: 40px;
+
+  }
+ .colorme
+ {
+   color: aliceblue;
+ }
+ 
